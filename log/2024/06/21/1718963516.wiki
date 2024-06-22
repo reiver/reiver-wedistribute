@@ -1,0 +1,255 @@
+wiki/1
+
+§ Why Payments On The Fediverse Are Important
+
+⸺ by Charles Iliya Krempeaux
+
+⸺ published 2024-06-21T02:51:56-07:00
+
+Is the Fediverse for //everyone//‽
+
+I typed those words into the (Tusky) Mastodon mobile app on my mobile-phone, and tapped the “post” button.
+I had created a poll asking people to vote — “yes” or “no”.
+Do you think the Fediverse is for everyone, or not‽
+
+In less than a second, my poll was cast into the vast expanses of the Fediverse.
+Within an instance, thousands of people recevied it.
+Some even re-cast my poll themselves, causing it to reach thousands more.
+
+Over the next 3 days, people voted.
+
+I checked on the poll multiple times a day.
+I didn't know which way the poll would go.
+Would more people vote, “yes”‽
+Would more people vote, “no”‽
+
+To be frank, I hoped that more people would vote, “yes”.
+But I was worried that most people didn't feel that way.
+
+There is a reason I am involved with the Fediverse — and am focused on decentralized social-media networks.
+Said simply — I think the Internet is broken, I think the Web is broken, and I think social-media is broken.
+And I don't think I am the only one who feels this way.
+I think decentralized social-media networks — such as the Fediverse — are a means to an end.
+I think they can help make the world a little //less worse// — and maybe even a little //better//
+
+Our lives are finite.
+I think about the world my children are growing up in, and will inherit.
+I want to try to make it a better place.
+There are obviously limits to what any of us, as individuals, can do — but we can do //some// things.
+
+After 3 days, my poll had closed.
+The winner was, “yes”! 🙂 — yes, the Fediverse was for everyone!
+I was glad.
+In fact, not only did more people vote “yes”, but — //the vast majority// of people voted “yes”!
+I always felt that the Fediverse should be for everyone.
+I was glad the vast majority of people agreed with me.
+
+So how do we get everyone here (onto the Fediverse)‽
+
+§§ John Does & Jane Does
+
+I grew up hearing my father mentioning the name “Joe Blow” from time to time.
+“Joe Blow” was a common //placeholder name// he grew up with.
+It was used to denote the //common man//.
+
+“The Joe Blow's of the world love this.”
+
+“//John Doe//“ and “//Jane Doe//“ were the common //placeholder names// I grew up with — which were also used to denote the //common man// and //common woman//.
+I.e., normal typical people.
+
+If the Fediverse is for everyone, and we want to get everyone here (onto the Fediverse), then — //everyone// includes all the //John Doe//s and //Jane Joe//s out there.
+
+So, how do we get all the //John Doe//s and //Jane Joe//s here (onto the Fediverse)‽
+
+The answer is //involved//, but to me it is obvious the answer includes something — payments.
+We need //payments// on the Fediverse .
+And really, we need //decentralized// payments.
+
+But that answer is only obvious if one has a perspective of has been happening over the last 30 to 50 years.
+
+§§ The Web
+
+**The Fediverse today reminds me of the Web in the 1990s.**
+
+It was uncharted territory.
+It was unexplored, and full of endless possibilities.
+It was a digital frontier where anything seemed possible.
+It was time of discovery and digital revolution & evolution.
+It (the Web) was a much different place than it is today.
+
+First — it was called the //the world wide web//, and not just //the web//.
+That is where the “www” in Internet domains such as “www.example.com” comes from — “www” is short for “//world wide web//“.
+
+Second — it was inhabited by computer hobbyists, technologists, enthusiasts, and other pioneering early adopters of computer technology.
+Today, in many parts of the world, most people have computers — in fact, many have multiple computers.
+Back then, most households either had zero or one computer — and most had zero.
+Having a computer back then was not //yet// common — if you had a computer, you were //unusual// (in a good way) — you were (as you probably guessed it) likely at least a //computer enthusiast//, maybe a //computer technologist// or some kind, or a //computer hobbyist//, or some other type of early adopter of computer technology.
+But having access to a computer was a prerequisite for viewing the Web — and thus, these are the people who created and consumed the Web of the 1990s.
+
+Internet speeds were much much slower back then.
+Downloading (what, by today's standards, would be considered) a lower-resolution photo (as a .JPEG) could take 30 minutes or more!
+
+You were tethered to a desk when you wanted to view the the Web.
+The type of computers most people had back then were //not// portable — they were large heavy machines.
+No smart-phones.
+No tablets.
+No laptops.
+Your computer (or computer-terminal) was on a desk — you went to the computer, you didn't take the computer with you.
+
+You _surfed_ the Web back then — you didn't _search_ it.
+You started on one web-page, clicked a hyper-link that took you to another web-page, spent some time there, clicked another hyper-link that took you to another web-page, and repeated that over and over again.
+Also, web-browser //tabs// didn't exist yet — this experiece different.
+
+§§ The Internet
+
+And back then, the Web hadn't //yet// absorbed the rest of the Internet yet — and become the ubiquitous user-interface for almost everything yet.
+Back in the 1990s, the Web was one of the things you did on the Internet — but it wasn't the only thing.
+
+We had Usenet and e-mail mailing-lists — the precursor to Reddit, Lemmy, and Kbin.
+
+We had the finger-protocol — the precursor social-networking.
+
+We even had the gopher-protocol — which is sort of like the Web, but lacked the //rich-text// and //image support// that later versions of the Web included.
+
+We also had FTP, IRC, telnet, and others interesting application protocols.
+
+§§ Before The Internet
+
+There is a history of the Internet that I have heard told over and over again that more or less claims that before the Internet there was the ARPANET — end of story.
+
+This is a lie — or, at least, extremely misleading.
+
+Before the (mainstream) Internet there was BBS.
+
+Many of the early Internet application protocols were copies of things that already existed on BBS — netmail, echomail, file downloads.
+
+§§ Dot-Com Boom
+
+Something happened in the 1990s and early 2000s — the Web //boomed//!
+
+§§ What If
+
+Would the Web still exist if the dot-com boom didn't happen‽
+
+//What-If//s like this are difficult to answer, but —
+
+I don't think the answer (to this question) is a //definitive ‘yes’//
+I think the answer (to this question) could conceivably have been a //‘no’//.
+
+It is probably difficult to imagine how small the Web was back in the 1990s.
+Compared to the Web of today — it was very very tiny.
+
+The Web back then in the 1990s, wasn't ubiquitous yet, wasn't a household word yet, hadn't become part of mass-culture yet, hadn't become a part of everyday-life yet.
+
+I suspect that if the //dom-com boom// hadn't happened, and //normal people// hadn't started using the Web en masse — I suspect the Web might not still be around.
+
+I will give you an example — meet-ups.
+
+I started going to meet-ups in the year 2012 or 2013.
+The meet-ups I went to were like little conferences — and I enjoyed conferences.
+In the beginning, I was going to something like 4 to 8 meet-ups per week — and sometimes going to more than one meet-up per day.
+
+Eventually I started organizing meet-ups.
+In fact, I organized meet-ups for about a decade.
+I organized a number of different meet-ups.
+I also had friend who organized their own meet-ups.
+
+Here is something I noticed — popular meet-ups have communities develop around them.
+
+Here is something else I noticed — if an organizer doesn't make a deliberate effort to bring in new people, their community will often die.
+And, as a result, their meet-up will also often die.
+
+As I said, I organized a number of different meet-ups.
+The most successful of these meet-ups were a set of AI meet-ups that I founded.
+While I was involved, it was the largest AI community in western Canada.
+(I stopped organizing them after my wife became pregnant with our first child.)
+We would fill rooms to capacity — with 200 to 300 people, or whatever the location was able to hold, there for the AI meet-up.
+And with more people on the waiting-list hoping to get in.
+
+I have a friend who is professors.
+While he lived in western Canada (near me) he encouraged his students to join the meet-up.
+Other professors did the same.
+We had a lot of students that joined the meet-up.
+
+Our AI community ranged in age from teenagers to people in their 70s.
+A we had a regular in-flow of new people joining the meet-up and the broader community.
+
+I had other friends who did //not// do this.
+Two friends of mine founded and organized a meet-up that was, at one point, more popular than mine.
+It was one of the most popular meet-ups in the world.
+But now, more than a decade later, it is dead.
+
+Here is what happened.
+Their meet-up had a very large community around it.
+But it didn't bring in new people — it didn't bring in younger people.
+Although we were all young when that community started — I remember at one point, that the youngest person at one the meet-up was in their late 30s.
+
+Things tend to happen as people get older.
+They get busy with work.
+They boy-friends or girl-friends.
+They get married.
+They have children.
+They get other interests.
+They loose interest.
+
+Slowly over time these people leave (as active members of) the community.
+Even people who were ‘regulars’ — coming to all the meet-ups for years — eventually leave (as active members of) the community.
+
+I suspect that this could have been the fate of the Web if the //dom-com boom// hadn't happened, and //normal people// hadn't started using the Web en masse.
+The Web might have died.
+The Web might have been forgotten.
+
+######
+
+§§ Influencers
+
+What do normal people want‽
+What attracts them to a social-media platform‽
+#####
+
+(Some of you aren't going to like this answer, but I think it is accurate nonetheless —)
+
+A lot, probably most, normal people want //influencers// — they want the celebrities, the key-opinion-leaders (KOL), ####.
+
+A lot of these //influencers// are making a living from being an //influencers//.
+It isn't just a hobby for them.
+Being an //influencers// is a job for them.
+
+If they cannot make money from being an //influencers// then they don't eat, then they cannot pay their rent, etc.
+
+§§ No Ads
+
+I have heard people claim that most people on the Fediverse are against advertisements.
+That isn't accurate.
+A lot of the current Fediverse culture is allergic to //non-consensual// advertisements.
+The ‘non-consensual’ is the important part.
+These are sometimes also called //obtrusive ads//.
+
+Many people on the Fediverse follow the Fediverse accounts of companies that they are fan of.
+Those companies post about their products on the Fediverse accounts.
+Those are ads.
+They aren't //obtrusive ads// — the people who follow those company Fediverse accounts consent to seeing those posts.
+But they are ads.
+
+Haven't said that, the type of //obtrusive ads// that exist on other platforms aren't on the Fediverse.
+
+And that means an influencer cannot (indirectly) derive their income from //obtrusive ads// on the Fediverse.
+
+So if we don't have the funds from //obtrusive ads// — what income options do (potential) influencers on the Fediverse have‽
+Payments.
+
+§§ Payment
+
+ 
+
+
+
+§§ Conclusion
+
+For the Fediverse to survive you need //normal people/ to join it.
+
+For //normal people// to join the Fediverse en masse you need //influencers// on the Fediverse.
+
+To make the Fediverse attractive for most //influencers// to join the Fediverse and stay on it they need to be able to make living on it.
+
+To make it so the Fediverse can make a living on the Fediverse, you need payments to be part of the Fediverse.
