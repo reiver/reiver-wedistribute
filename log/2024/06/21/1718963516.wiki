@@ -96,7 +96,7 @@ No tablets.
 No laptops.
 Your computer (or computer-terminal) was on a desk — you went to the computer, you didn't take the computer with you.
 
-You _surfed_ the Web back then — you didn't _search_ it.
+You //surfed// the Web back then — you didn't //search// it.
 You started on one web-page, clicked a hyper-link that took you to another web-page, spent some time there, clicked another hyper-link that took you to another web-page, and repeated that over and over again.
 Also, web-browser //tabs// didn't exist yet — this experiece different.
 
