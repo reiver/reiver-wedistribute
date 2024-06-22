@@ -61,11 +61,11 @@ If the Fediverse is for everyone, and we want to get everyone here (onto the Fed
 
 So, how do we get all the //John Doe//s and //Jane Joe//s here (onto the Fediverse)‽
 
-The answer is //involved//, but to me it is obvious the answer includes something — payments.
+The answer is //involved//, but to me it is obvious the answer includes something — **payments**.
 We need //payments// on the Fediverse .
 And really, we need //decentralized// payments.
 
-But that answer is only obvious if one has a perspective of has been happening over the last 30 to 50 years.
+But that answer is only obvious if one has a perspective on what has been happening over the last 30 to 50 years — with computers, with computer-networks, and how people have been using them.
 
 §§ The Web
 
