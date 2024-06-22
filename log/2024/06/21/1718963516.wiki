@@ -121,7 +121,7 @@ This is a lie — or, at least, extremely misleading.
 
 Before the (mainstream) Internet there was BBS.
 
-Many of the early Internet application protocols were copies of things that already existed on BBS — netmail, echomail, file downloads.
+Many of the early Internet application protocols were copies of things that already existed on BBS — netmail, echomail, file downloads, etc.
 
 §§ Dot-Com Boom
 
