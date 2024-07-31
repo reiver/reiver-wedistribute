@@ -6,8 +6,8 @@ wiki/1
 
 ⸺ published 2024-06-21T02:51:56-07:00
 
-I have been in Tech long enough to know that — some things endure the test of time, become ubiquitous, and become household names.
-While other things are passing fads.
+I have been in Tech long enough to know that — some things endure the test of time, become ubiquitous, and become household names —
+while other things are passing fads.
 
 Which one is the Fediverse.
 Will it endure‽
