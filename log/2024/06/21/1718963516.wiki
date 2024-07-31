@@ -8,7 +8,7 @@ wiki/1
 
 Is the Fediverse for //everyone//‽
 
-I typed those words into the (Tusky) Mastodon mobile app on my mobile-phone, and tapped the “post” button.
+I typed those words into the (Tusky) Mastodon mobile-phone app, and tapped the “post” button.
 I had created a poll asking people to vote — “yes” or “no”.
 Do you think the Fediverse is for everyone, or not‽
 
