@@ -150,7 +150,15 @@ Many of the early Internet application protocols were copies of things that alre
 
 §§ Dot-Com Boom
 
-Something happened in the 1990s and early 2000s — the Web //boomed//!
+Something happened in the late 1990s and early 2000s — the Web //boomed//!
+
+In a short period of time, the Web transformed from a space inhabited primarily by //computer enthusiasts//, //computer technologists//, //computer hobbyists//, and other early adopters of computer technology to a place (also) inhabited by entrepreteurs, investors, and the //John Doe//'s and //Jane Doe//'s (i.e., the regular normal people) of the world.
+
+It happened so fast.
+And it changed everything.
+The Web is (now) ubiquitous.
+The Web is (now) a household name.
+The Web has had a major global impact in so many ways — including on culture, on commerce, on society, and on so much more.
 
 §§ What If
 
@@ -158,7 +166,7 @@ Would the Web still exist if the dot-com boom didn't happen‽
 
 //What-If//s like this are difficult to answer, but —
 
-I don't think the answer (to this question) is a //definitive ‘yes’//
+I don't think the answer (to this question) is a //definitive ‘yes’//.
 I think the answer (to this question) could conceivably have been a //‘no’//.
 
 It is probably difficult to imagine how small the Web was back in the 1990s.
