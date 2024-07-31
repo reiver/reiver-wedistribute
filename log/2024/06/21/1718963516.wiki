@@ -6,7 +6,25 @@ wiki/1
 
 ⸺ published 2024-06-21T02:51:56-07:00
 
-The Fediverse needs payments to survive — here the first reason //why//.
+I have been in Tech long enough to know that — some things endure the test of time, become ubiquitous, and become household names.
+While other things are passing fads.
+
+Which one is the Fediverse.
+Will it endure‽
+Is it a passing fad‽
+Do we get a say‽
+
+I am reminded of a quotation from a movie:
+
+“The future is not set. There is no fate, but what we make for ourselves.”
+
+I do think we get say.
+I think there are things we can do to make the Fediverse endure.
+
+Here is one of them —
+
+For the Fediverse to endure, for it to not be a passing fad, it needs payments built into it.
+Here the first reason //why//.
 
 ❦
 
