@@ -20,8 +20,9 @@ I am reminded of a quotation from a movie:
 
 I do think we get say.
 I think there are things we can do to make the Fediverse endure.
+The Fediverse //is// what we make it.
 
-Here is one of them —
+Here is one of those things we can do —
 
 For the Fediverse to endure, for it to not be a passing fad, it needs payments built into it.
 Here the first reason //why//.
