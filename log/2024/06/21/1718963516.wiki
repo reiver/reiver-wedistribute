@@ -6,6 +6,10 @@ wiki/1
 
 ⸺ published 2024-06-21T02:51:56-07:00
 
+The Fediverse needs payments to survive — here the first reason //why//.
+
+❦
+
 Is the Fediverse for //everyone//‽
 
 I typed those words into the Mastodon mobile-phone app (into Tusky), and tapped the “post” button.
@@ -66,7 +70,7 @@ The answer is //involved//, but to me it is obvious the answer includes somethin
 We need //payments// on the Fediverse .
 And really, we need //decentralized// payments.
 
-But that answer is only obvious if know the history computers, of computer-networks, and how people have been using them over the last 30 to 50 years.
+But that answer is only obvious when you history computers, of computer-networks, and how people have been using them over the last 30 to 50 years.
 
 §§ The Web
 
