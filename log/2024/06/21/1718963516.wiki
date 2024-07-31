@@ -89,7 +89,8 @@ The answer is //involved//, but to me it is obvious the answer includes somethin
 We need //payments// on the Fediverse .
 And really, we need //decentralized// payments.
 
-But that answer is only obvious when you history computers, of computer-networks, and how people have been using them over the last 30 to 50 years.
+But that answer is only obvious when you are aware of the history of computers, of computer-networks, and how people have been using them over the last 30 to 50 years.
+So let's talk about that history, because it is important.
 
 §§ The Web
 
