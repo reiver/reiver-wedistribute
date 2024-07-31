@@ -241,17 +241,17 @@ The Web might have been forgotten.
 
 What do normal people want‽
 What attracts them to a social-media platform‽
-#####
+What keeps them coming back‽
 
 (Some of you aren't going to like this answer, but I think it is accurate nonetheless —)
 
-A lot, probably most, normal people want //influencers// — they want the celebrities, the key-opinion-leaders (KOL), ####.
+A lot, probably most, normal typical people want //influencers// — they want the celebrities, the key-opinion-leaders (KOL), they are to pay attention to who their peers are paying attention to, etc.
 
 A lot of these //influencers// are making a living from being an //influencers//.
 It isn't just a hobby for them.
 Being an //influencers// is a job for them.
 
-If they cannot make money from being an //influencers// then they don't eat, then they cannot pay their rent, etc.
+If these //influencers// cannot make money from being an //influencers// then they don't eat, then they cannot pay their rent, etc.
 
 §§ No Ads
 
@@ -259,19 +259,19 @@ I have heard people claim that most people on the Fediverse are against advertis
 That isn't accurate.
 A lot of the current Fediverse culture is allergic to //non-consensual// advertisements.
 The ‘non-consensual’ part is the important.
-These are sometimes also called //obtrusive ads//.
+These are sometimes also called //intrusive ads//.
 
 Many people on the Fediverse follow the Fediverse accounts of companies that they are fan of.
 Those companies post about their products on the Fediverse accounts.
 Those are ads.
-They aren't //obtrusive ads// — the people who follow those company Fediverse accounts consent to seeing those posts.
+They aren't //intrusive ads// — the people who follow those company Fediverse accounts consent to seeing those posts.
 But they are ads.
 
-Havingt said that, the type of //obtrusive ads// that exist on other platforms aren't on the Fediverse.
+Havingt said that, the type of //intrusive ads// that exist on other platforms aren't on the Fediverse.
 
-And that means an influencer cannot (indirectly) derive their income from //obtrusive ads// on the Fediverse.
+And that means an influencer cannot (indirectly) derive their income from //intrusive ads// on the Fediverse.
 
-So if we don't have the funds from //obtrusive ads// — what income options do (potential) influencers on the Fediverse have‽
+So if we don't have the funds from //intrusive ads// — what income options do (potential) influencers on the Fediverse have‽
 Payments.
 
 §§ Payment
