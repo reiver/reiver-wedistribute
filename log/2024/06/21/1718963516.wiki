@@ -108,7 +108,7 @@ That is where the “www” in Internet domains such as “www.example.com” co
 Second — it was inhabited by computer hobbyists, technologists, enthusiasts, and other pioneering early adopters of computer technology.
 Today, in many parts of the world, most people have computers — in fact, many have multiple computers.
 Back then, most households either had zero or one computer — and most had zero.
-Having a computer back then was not //yet// common — if you had a computer, you were //unusual// (in a good way) — you were (as you probably guessed it) likely at least a //computer enthusiast//, maybe a //computer technologist// or some kind, or a //computer hobbyist//, or some other type of early adopter of computer technology.
+Having a computer back then was not //yet// common — and if you had a computer, you were //unusual// (in a good way) — you were (as you probably guessed it) likely at least a //computer enthusiast//, maybe a //computer technologist// or some kind, or a //computer hobbyist//, or some other type of early adopter of computer technology.
 But having access to a computer was a prerequisite for viewing the Web — and thus, these are the people who created and consumed the Web of the 1990s.
 
 Internet speeds were much much slower back then.
