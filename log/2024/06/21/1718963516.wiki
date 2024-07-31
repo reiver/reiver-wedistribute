@@ -155,7 +155,7 @@ Many of the early Internet application protocols were copies of things that alre
 
 Something happened in the late 1990s and early 2000s — the Web //boomed//!
 
-In a short period of time, the Web transformed from a space inhabited primarily by //computer enthusiasts//, //computer technologists//, //computer hobbyists//, and other early adopters of computer technology to a place (also) inhabited by entrepreteurs, investors, and the //John Doe//'s and //Jane Doe//'s (i.e., the regular normal people) of the world.
+In a short period of time, the Web transformed from a space inhabited primarily by //computer enthusiasts//, //computer technologists//, //computer hobbyists//, and other early adopters of computer technology to a place (also) inhabited by entrepreteurs, investors, and the //John Doe//'s and //Jane Doe//'s (i.e., the normal typical people) of the world.
 
 It happened so fast.
 And it changed everything.
